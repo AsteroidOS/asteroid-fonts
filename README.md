@@ -3,7 +3,7 @@ been created to centralize in a single versioning system the various fonts in
 use.
 
 ### Licenses ###
-Bebas Kai, Bebas Neue, Fyodor, LeagueSpartan, Raleway, SourceSansPro, Symbola
+Bebas Kai, Bebas Neue, Fyodor, LeagueSpartan, Noto Emoji, Raleway, SourceSansPro, Symbola
 and Titilliumare and Xolonium are licensed under the SIL Open Font License v1.1.
 You can find a copy of this license in the COPYING-OFL file.
 

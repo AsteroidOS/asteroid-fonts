@@ -7,6 +7,7 @@ use.
 | Font | License |
 | --- | --- |
 | [BebasKai](BebasKai-Regular.otf), [Bebas Neue](bold-hour-bebas-v2/usr/share/fonts/BebasNeueBold.ttf) | The fonts "BebasKai" and "Bebas Neue" are licensed under SIL Open Font License and was created by [Dharma Type](http://www.dharmatype.com/). [license](bold-hour-bebas/usr/share/fonts/License.txt) |
+| DroidSansFallback | is licensed under the Apache License v2.0, you can find a copy of this license in the COPYING-Apachev2 file.|
 | FatCow | is licensed under Creative Commons Attribution 3.0: http://www.1001fonts.com/fatcow-font.html you can find a copy of this license in the COPYING-CCBY3.0 file.|
 | [Fyodor](Fyodor-BoldCondensed.ttf) | The font "Fyodor" is licensed under SIL Open Font License and was created by [Chris Hughes](http://fyodor.blueroomcollective.co.uk/). [license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)|
 | LeagueSpartan, Noto Sans, Symbola and Xolonium | are licensed under the SIL Open Font License v1.1. You can find a copy of this license in the COPYING-OFL file.|
